@@ -15,6 +15,7 @@ https://nifi.apache.org/docs/nifi-docs/components/org.apache.nifi/nifi-ignite-na
 <img src= "CaptureProcess.PNG">
 
 ## Contributors
-
-<a href="https://github.com/wahid18benz">Abdelwahid Benzzerouk </a>
-<a href="https://github.com/kmamine">Mohamed Amine KERKOURI </a>
+<li>
+<ul><a href="https://github.com/wahid18benz">Abdelwahid Benzzerouk </a></ul>
+<ul><a href="https://github.com/kmamine">Mohamed Amine KERKOURI </a></ul>
+</li>
