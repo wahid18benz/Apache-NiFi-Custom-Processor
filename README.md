@@ -13,3 +13,8 @@ This Can be a great Alternative for PutIgniteCache processor provided by Apache 
 https://nifi.apache.org/docs/nifi-docs/components/org.apache.nifi/nifi-ignite-nar/1.5.0/org.apache.nifi.processors.ignite.cache.PutIgniteCache/
 
 <img src= "CaptureProcess.PNG">
+
+## Contributors
+
+<a href="https://github.com/wahid18benz">Abdelwahid Benzzerouk </a>
+<a href="https://github.com/kmamine">Mohamed Amine KERKOURI </a>
