@@ -16,6 +16,6 @@ https://nifi.apache.org/docs/nifi-docs/components/org.apache.nifi/nifi-ignite-na
 
 ## Contributors
 <li>
-  <ul><a href="https://github.com/wahid18benz">Abdelwahid Benzzerouk </a></ul>
+  <ul><a href="https://github.com/wahid18benz">Abdelwahid Benzerrouk </a></ul>
   <ul><a href="https://github.com/kmamine">Mohamed Amine KERKOURI </a></ul>
 </li>
